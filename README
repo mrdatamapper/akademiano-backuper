@@ -1,0 +1,10 @@
+
+config files dir /etc/akademiano/backuper/
+
+config files in ini format
+
+/etc/akademiano/backuper/config.ini - main config file with credentials for postgresql and Backblaze B2by duplicity
+
+/etc/akademiano/backuper/include.list - include list for duplicity
+
+/etc/akademiano/backuper/exclude.list - exclude list for duplicity
